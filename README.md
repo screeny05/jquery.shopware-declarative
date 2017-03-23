@@ -1,0 +1,1 @@
+# jquery.shopware-declarative
